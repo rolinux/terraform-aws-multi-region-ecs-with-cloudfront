@@ -59,7 +59,7 @@ implementation a step further.
 
 ## Diagram:
 
-![Diagram](/draw.io/multi_region_ecs.png?raw=true "Diagram)
+![Diagram](/draw.io/multi_region_ecs.png?raw=true "Diagram")
 
 ## How to use it
 
